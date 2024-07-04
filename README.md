@@ -52,4 +52,4 @@ The website includes HTML, CSS, and JavaScript files and mentions the HNG Intern
 ![Screenshot (299)](https://github.com/theglad-x/Static-Website/assets/126136379/9d49085b-6c0f-498f-afb0-df3ac1848024)
 
  # Access the website through the public IP address of the EC2 instance.
-
+![Screenshot (308)](https://github.com/theglad-x/Static-Website/assets/126136379/b828e713-2501-49c6-abf9-e445c3d779a3)
