@@ -3,7 +3,7 @@
 This project is part of my participation in the HNG Internship. The task involves deploying a static website onto an AWS EC2 instance, configuring NGINX to serve the website, and ensuring that the website is accessible through a public IP address. The objective is to demonstrate my ability to set up and configure a web server, as well as deploy static content in a cloud environment.
 
 In this project I deployed a simple static website on AWS EC2 using NGINX as the web server. 
-The website includes HTML, CSS, and JavaScript files and mentions the HNG Internship with a link to [HNG](https://hng.tech). 
+The website includes HTML, CSS, and JavaScript files 
 
 
 ## Setup for the Deployment
