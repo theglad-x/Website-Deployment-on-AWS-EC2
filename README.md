@@ -1,4 +1,4 @@
-## Simple Website Deploymet on AWS EC2
+## Simple Website Deployment on AWS EC2
 
 This project is part of my participation in the HNG Internship. The task involves deploying a static website onto an AWS EC2 instance, configuring NGINX to serve the website, and ensuring that the website is accessible through a public IP address. The objective is to demonstrate my ability to set up and configure a web server, as well as deploy static content in a cloud environment.
 
